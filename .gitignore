@@ -1,0 +1,10 @@
+node_modules
+.claude/
+.claude-flow/
+.swarm/
+.mcp.json
+CLAUDE.md
+package-lock.json
+*.avif
+at
+v
